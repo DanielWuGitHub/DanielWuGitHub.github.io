@@ -5,15 +5,15 @@ date:   1970-01-01 00:00:00
 categories: 
 ---
 
-## Prologue
+# Prologue
 
 Life is a tour, every steps should be recorded.
 
 That why I decide to build up this new blog, which has less essay and put the achievemnts of my life in a higher priority.
 
-## Milestone 
+# Milestone 
 
-### 2015
+## 2015
 
 #### Cisco Certified Internetwork Expert Routing and Switching (CCIE R&S) certification
 
@@ -45,7 +45,7 @@ Listening:`8.0`; Reading:`7.0`; Writing:`6.0`; Speaking:`6.0`; Overall:`7.0`
 
 ##2013
 
-###A Chinese Utility Model Patent
+####A Chinese Utility Model Patent
 
 Invent a patent named "An intelligent device used for exhibiting two-dimension code" with a my team members.
 
