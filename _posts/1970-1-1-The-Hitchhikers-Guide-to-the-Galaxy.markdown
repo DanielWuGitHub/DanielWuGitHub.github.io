@@ -34,15 +34,7 @@ Cisco Rising Start Programming Hackathon, which is a competition among all new e
 
 ####IELTS English Testing 7 score
 
-Listening: `8.0`
-
-Reading:   `7.0`
-
-Writing:   `6.0`
-
-Speaking:  `6.0`
-
-Overall:   `7.0`
+Listening:`8.0`; Reading:`7.0`; Writing:`6.0`; Speaking:`6.0`; Overall:`7.0`
 
 
 <center>
