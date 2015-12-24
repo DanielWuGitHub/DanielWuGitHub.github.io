@@ -13,7 +13,7 @@ That why I decide to build up this new blog, which has less essay and put the ac
 
 # Milestone 
 
-## 2015
+## 2015 - Employee of Cisco Systems (China) R&D Inc.
 
 #### Cisco Certified Internetwork Expert Routing and Switching (CCIE R&S) certification
 
@@ -43,7 +43,7 @@ Listening:`8.0`; Reading:`7.0`; Writing:`6.0`; Speaking:`6.0`; Overall:`7.0`
 
 ---
 
-##2013
+##2013 - Student of Beijing University of Posts and Telecommunications
 
 ####A Chinese Utility Model Patent
 
@@ -54,3 +54,12 @@ Invent a patent named "An intelligent device used for exhibiting two-dimension c
 <img src="/img/patent.jpg">
 </center>
 
+
+
+####National Computer Rank Examination Certificate of Level 3
+
+Engineers preparatory stage. Certificate of Level 3 indicating that the holder preliminary master basic skills and information technology-related jobs, be able to participate in some jobs such as the development of hardware and software systems, operation and maintenance, management and services.
+
+<center>
+<img src="/img/NCR3.jpg">
+</center>
