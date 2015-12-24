@@ -6,5 +6,17 @@ sitemap:
     changefreq: weekly
     lastmod: 2014-09-07T16:31:30+05:30
 ---
+
 # About
-This is a demo ABOUT page. Edit ```about.html``` to change its contents.
+
+
+This is the personal website of Daniel Wu (Dongmin Wu).
+
+I am an Software Engineer who loves creative things and learning new things.
+
+I am on my way to be a great programmer and designer, with my innovation and passion.
+
+I have learned variety of skills including Web development, Server development, Network technology, Circuit design and Embed System development in my university. 
+
+I am an embedded system developer now.
+
