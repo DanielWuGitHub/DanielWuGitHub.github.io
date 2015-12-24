@@ -20,6 +20,13 @@ body{
 	}
 }
 
+//modify by dongmin
+.center-image
+{
+        margin: 0 auto;
+        display: block;
+}
+
 .wrap .grid,
 .grid.wrap {
 	max-width: $body-width;

@@ -27,9 +27,9 @@ Cisco Certified Internetwork Expert Routing and Switching (CCIE Routing and Swit
 
 Cisco Rising Start Programming Hackathon, which is a competition among all new employees and needs solid basic skills, creative thinking and tighten collaborating.
 
-<center>
+<figure>
 ![Cisco Rising Start Programming Hackathon][CRS]
-</center>
+</figure>
 
 
 ####IELTS English Testing 7 score
@@ -44,9 +44,7 @@ Speaking:  `6.0`
 
 Overall:   `7.0`
 
-<center>
-![IELTS English Testing][IELTS]
-</center>
+![IELTS English Testing][IELTS] {: .center-image}
 
 
 
