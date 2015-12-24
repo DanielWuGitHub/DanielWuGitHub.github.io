@@ -19,13 +19,17 @@ That why I decide to build up this new blog, which has less essay and put the ac
 
 Cisco Certified Internetwork Expert Routing and Switching (CCIE Routing and Switching) certifies the skills required of expert-level network engineers to plan, operate and troubleshoot complex, converged network infrastructure.
 
-![CCIE R&S Certification][CCIE]
+<!--<center>-->
+<!--![CCIE R&S Certification][CCIE]-->
+<!--</center>-->
 
 #### 3rd Place on Hackathon at Cisco Rising Start Challenge, 2015
 
 Cisco Rising Start Programming Hackathon, which is a competition among all new employees and needs solid basic skills, creative thinking and tighten collaborating.
 
+<center>
 ![Cisco Rising Start Programming Hackathon][CRS]
+</center>
 
 
 ####IELTS English Testing 7 score
@@ -40,7 +44,9 @@ Speaking:  `6.0`
 
 Overall:   `7.0`
 
+<center>
 ![IELTS English Testing][IELTS]
+</center>
 
 
 
