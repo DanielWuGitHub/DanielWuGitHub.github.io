@@ -25,7 +25,7 @@ Cisco Certified Internetwork Expert Routing and Switching (CCIE Routing and Swit
 
 #### 3rd Place on Hackathon at Cisco Rising Start Challenge, 2015
 
-Cisco Rising Start Programming Hackathon, which is a competition among all new employees and needs solid basic skills, creative thinking and tighten collaborating.
+Cisco Rising Start Programming Hackathon, which is a competition among all new employees and needs solid basic skills, creative thinking and tight collaboration.
 
 <center>
 <img src="/img/CRS.jpg">
