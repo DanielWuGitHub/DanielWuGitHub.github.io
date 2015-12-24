@@ -9,6 +9,7 @@ sitemap:
 
 # About
 
+[portrait](../img/portrait.jpg)
 
 This is the personal website of Daniel Wu (Dongmin Wu).
 
