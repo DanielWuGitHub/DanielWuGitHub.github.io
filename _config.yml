@@ -1,5 +1,5 @@
 ##The website title
-name: Blog Name
+name: Dongmin Wu's Archive
 ##Markdown processor
 markdown: kramdown
 ##syntax highlighter. change it to pygments
@@ -13,9 +13,9 @@ sass:
 paginate: 5
 paginate_path: "page:num"
 ##The website description (to be used in meta tags)
-description: Put website description for your home page. (about 50 words or more)
+description: Dear visitor, this is my archive site which is used for store and exhibit the achievement of mine.
 ##Some frequently used keywords on your website
-keywords: some, relevant, keywords, for, usage, in metatags
+keywords: Dongmin Wu
 
 ##define this for disqus comment support
 #disqus: forumname
@@ -26,12 +26,12 @@ keywords: some, relevant, keywords, for, usage, in metatags
 
 ##Some commonly used links
 links:
-  facebook: username
-  twitter: username
-  email: username@gmail.com
-  github: username
+  #facebook: 
+  #twitter: 
+  email: heydanielwu@foxmail.com
+  github: DanielWuGitHub
 
 ##put desired image in img/ directory and set the value accordingly. If not defined, a placeholder image will be used.
 about_image: placeholder.jpg
 ##comment this if you want full width posts with no sidebar
-sidebar: on
+#sidebar: on
