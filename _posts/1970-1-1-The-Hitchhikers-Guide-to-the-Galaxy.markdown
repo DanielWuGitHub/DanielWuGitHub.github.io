@@ -47,13 +47,23 @@ Listening:`8.0`; Reading:`7.0`; Writing:`6.0`; Speaking:`6.0`; Overall:`7.0`
 
 ####A Chinese Utility Model Patent
 
-Invent a patent named "An intelligent device used for exhibiting two-dimension code" with a my team members.
+Invented a patent named "An intelligent device used for exhibiting two-dimension code" with a my team members.
 
 
 <center>
 <img src="/img/patent.jpg">
 </center>
 
+
+####3rd Prize in National Electronic Design Contest (Beijing Division)
+
+Made a Quadrotor with team members in only 3 days, created our own flight stabilization system
+
+
+<center>
+<img src="/img/National_Electronic_Design_Contest.jpg">
+<img src="/img/National_Electronic_Design_Contest_part2.jpg">
+</center>
 
 
 ####National Computer Rank Examination Certificate of Level 3
